@@ -5,6 +5,9 @@ ruby '2.6.5'
 
 
 gem "rename"
+gem 'autoprefixer-rails'
+gem 'font-awesome-sass', '~> 5.12.0'
+gem 'simple_form'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 6.0.2', '>= 6.0.2.1'
